@@ -12,3 +12,7 @@ wheels/
 
 # dbs
 *.sqlite
+
+
+# data files
+data/
